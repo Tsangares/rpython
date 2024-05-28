@@ -1,0 +1,6 @@
+*~
+test/
+.Rproj*
+*.Rproj
+dataset.csv
+coefficients.csv
